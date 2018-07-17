@@ -16,3 +16,10 @@
 
 * Não coloque connectionStrings, logins ou dados de infraestrutura em nenhum arquivo
 * Não publique projetos internos ou regras de negócio
+
+# Dicas
+
+* Plugin para VS https://visualstudio.github.com/
+* VScode já vem com plugin
+* GIT CLI - https://git-scm.com/downloads
+* Tutorial GIT - https://github.com/progit/progit2/releases/download/2.1.78/progit.pdf
